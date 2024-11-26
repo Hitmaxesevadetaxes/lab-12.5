@@ -1,0 +1,18 @@
+﻿  UnitTest1.cpp
+C:\Users\HP\source\repos\lab 12.5\lab 12.5\source.cpp(38,9): error C2561: 'writeToFile': function must return a value
+  (compiling source file '/UnitTest1.cpp')
+      C:\Users\HP\source\repos\lab 12.5\lab 12.5\source.cpp(34,5):
+      see declaration of 'writeToFile'
+  
+C:\Users\HP\source\repos\lab 12.5\lab 12.5\source.cpp(53,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\HP\source\repos\lab 12.5\lab 12.5\source.cpp(179,13): error C3861: 'findMaxVacancies': identifier not found
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\HP\source\repos\lab 12.5\lab 12.5\source.cpp(185,13): error C3861: 'printRequirements': identifier not found
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\HP\source\repos\lab 12.5\lab 12.5\source.cpp(188,13): error C3861: 'createPositionSummary': identifier not found
+  (compiling source file '/UnitTest1.cpp')
+  

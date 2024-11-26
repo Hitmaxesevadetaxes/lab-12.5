@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\lab 12.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93964868-E8AB-45FD-8F32-B01BC786EEC0}|lab 12.5\\lab 12.5.vcxproj|C:\\Users\\HP\\source\\repos\\lab 12.5\\lab 12.5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93964868-E8AB-45FD-8F32-B01BC786EEC0}|lab 12.5\\lab 12.5.vcxproj|solutionrelative:lab 12.5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E988D91E-540C-4A44-8EC3-1E34F3F3E9DF}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\HP\\source\\repos\\lab 12.5\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E988D91E-540C-4A44-8EC3-1E34F3F3E9DF}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\lab 12.5\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\lab 12.5\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T21:06:33.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\lab 12.5\\lab 12.5\\Source.cpp",
+              "RelativeDocumentMoniker": "lab 12.5\\Source.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\lab 12.5\\lab 12.5\\Source.cpp*",
+              "RelativeToolTip": "lab 12.5\\Source.cpp*",
+              "ViewState": "AgIAALMAAAAAAAAAAAAUwNIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T20:23:20.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
